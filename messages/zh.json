@@ -1,46 +1,46 @@
 {
   "Error": {
-    "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>",
-    "title": "Something went wrong!"
+    "description": "<p>我们不幸遇到了一个错误。</p><p>您可以尝试<retry>重新加载页面</retry>。</p>",
+    "title": "出现了一些问题！"
   },
   "IndexPage": {
-    "description": "This is a basic example that demonstrates the usage of <code>next-intl</code> with the Next.js App Router. Try changing the locale in the top right corner and see how the content changes.",
-    "title": "next-intl example"
+    "description": "这是一个基本示例，演示了如何在 Next.js 应用程序路由中使用<code>next-intl</code>。尝试在右上角更改区域设置，查看内容如何变化。",
+    "title": "next-intl 示例"
   },
   "LocaleLayout": {
-    "title": "next-intl example"
+    "title": "next-intl 示例"
   },
   "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unknown}}"
+    "label": "更改语言",
+    "locale": "{locale, select, de {🇩🇪 德语} en {🇺🇸 英语} other {未知}}"
   },
   "Manifest": {
-    "name": "next-intl example"
+    "name": "next-intl 示例"
   },
   "Navigation": {
-    "home": "Home",
-    "pathnames": "Pathnames"
+    "home": "主页",
+    "pathnames": "路径名称"
   },
   "NotFoundPage": {
-    "description": "Please double-check the browser address bar or use the navigation to go to a known page.",
-    "title": "Page not found"
+    "description": "请仔细检查浏览器地址栏，或者使用导航转到已知页面。",
+    "title": "页面未找到"
   },
   "PageLayout": {
     "links": {
       "docs": {
-        "description": "Learn more about next-intl in the official docs.",
+        "description": "在官方文档中了解有关 next-intl 的更多信息。",
         "href": "https://next-intl.dev",
-        "title": "Docs"
+        "title": "文档"
       },
       "source": {
-        "description": "Browse the source code of this example on GitHub.",
+        "description": "在 GitHub 上浏览此示例的源代码。",
         "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
-        "title": "Source code"
+        "title": "源代码"
       }
     }
   },
   "PathnamesPage": {
-    "description": "<p>The pathnames are internationalized too.</p><p>If you're using the default language English, you'll see <code>/en/pathnames</code> in the browser address bar on this page.</p><p>If you change the locale to German, the URL is localized accordingly (<code>/de/pfadnamen</code>).</p>",
-    "title": "Pathnames"
+    "description": "<p>路径名称也进行了国际化。</p><p>如果您使用的是默认语言英语，您将在此页面的浏览器地址栏中看到<code>/en/pathnames</code>。</p><p>如果您将语言设置更改为德语，URL 会相应本地化（<code>/de/pfadnamen</code>）。</p>",
+    "title": "路径名称"
   }
 }
