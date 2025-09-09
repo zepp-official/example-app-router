@@ -15,7 +15,7 @@
     "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unbekannt}}"
   },
   "Manifest": {
-    "name": ""
+    "name": "next-intl example"
   },
   "Navigation": {
     "home": "Start",
