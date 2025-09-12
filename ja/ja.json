@@ -1,0 +1,46 @@
+{
+    "Error": {
+        "description": "<p>申し訳ありませんが、エラーが発生しました。<\/p><p>ご覧になっていたページを<retry>再読み込み<\/retry>してみてください。<\/p>",
+        "title": "問題が発生しました！"
+    },
+    "IndexPage": {
+        "description": "これは、Next.jsのApp Routerで<code>next-intl<\/code>の使い方を示す基本的な例です。右上のロケールを変更して、コンテンツがどのように変化するか試してみてください。",
+        "title": "next-intlの例"
+    },
+    "LocaleLayout": {
+        "title": "next-intlの例"
+    },
+    "LocaleSwitcher": {
+        "label": "言語を変更する",
+        "locale": "{locale, select, de {🇩🇪 ドイツ語} en {🇺🇸 英語} other {不明}}"
+    },
+    "Manifest": {
+        "name": "next-intlの例"
+    },
+    "Navigation": {
+        "home": "ホーム",
+        "pathnames": "パス名"
+    },
+    "NotFoundPage": {
+        "description": "ブラウザのアドレスバーを再度ご確認いただくか、ナビゲーションを使って既知のページへ移動してください。",
+        "title": "ページが見つかりません"
+    },
+    "PageLayout": {
+        "links": {
+            "docs": {
+                "description": "公式ドキュメントで next-intl について詳しく知ることができます。",
+                "href": "https:\/\/next-intl.dev",
+                "title": "ドキュメント"
+            },
+            "source": {
+                "description": "この例のソースコードはGitHubでご覧いただけます。",
+                "href": "https:\/\/github.com\/amannn\/next-intl\/tree\/main\/examples\/example-app-router",
+                "title": "ソースコード"
+            }
+        }
+    },
+    "PathnamesPage": {
+        "description": "<p>パス名も国際化されています。<\/p><p>デフォルト言語の英語を使用している場合、このページのブラウザのアドレスバーには<code>\/en\/pathnames<\/code>と表示されます。<\/p><p>ロケールをドイツ語に変更すると、URLもそれに合わせてローカライズされます（<code>\/de\/pfadnamen<\/code>）。<\/p>",
+        "title": "パス名"
+    }
+}
